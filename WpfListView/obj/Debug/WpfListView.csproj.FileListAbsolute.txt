@@ -1,0 +1,15 @@
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\bin\Debug\WpfListView.exe.config
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\bin\Debug\WpfListView.exe
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\bin\Debug\WpfListView.pdb
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\obj\Debug\WpfListView.csprojAssemblyReference.cache
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\obj\Debug\MainWindow.g.cs
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\obj\Debug\App.g.cs
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\obj\Debug\WpfListView_MarkupCompile.cache
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\obj\Debug\WpfListView_MarkupCompile.lref
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\obj\Debug\MainWindow.baml
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\obj\Debug\WpfListView.g.resources
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\obj\Debug\WpfListView.Properties.Resources.resources
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\obj\Debug\WpfListView.csproj.GenerateResource.cache
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\obj\Debug\WpfListView.csproj.CoreCompileInputs.cache
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\obj\Debug\WpfListView.exe
+C:\Users\Jan Kowalski\Source\Repos\WpfListView\WpfListView\obj\Debug\WpfListView.pdb
